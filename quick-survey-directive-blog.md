@@ -5,7 +5,7 @@ the custom html element and specify the question then bam! You have your survey 
 The inspiration behind creating this all stemmed from a co-worker of mine creating a simple mock up of a survey with some animations.
 After seeing this mock up another team member of mine asked:
 
-"Why isn't there an Angular Directive I can just include that mimics, this mock ups functionality?" 
+`"Why isn't there an Angular Directive I can just include that mimics, this mock ups functionality?"`
 
 From there I knew that I wanted to take that idea and turn it into a reality. The process for building the npm module was quite simple.
 I stored all the functionality and scope variables of the module in the directive. To fully utilize angular with this idea
