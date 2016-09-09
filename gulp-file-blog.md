@@ -1,3 +1,5 @@
+![idea42 logo](images/twitter-gulppost.jpg)
+
 #Why a well put together Gulp file means everything.
 
 For any beginner developers out there running a server during their development phase there seems to be a commonality of constantly shutting down the rebooting the server.  The reason why this happens so often is because while a server runs it doesn’t track any new changes made. So, now this brings us to the most annoying key combo of any developer, ctrl + C, up on the arrow key, then enter. While this seems like an easy combo image doing that over and over and over again during the development lifecycle to see what changes were made on the screen. This process can become very irritating over!
