@@ -1,4 +1,4 @@
-![idea42 logo](images/twitter-gulppost.jpg)
+![Gulp blog](images/Twitter-gulppost.jpg)
 
 #Why a well put together Gulp file means everything.
 
