@@ -1,4 +1,4 @@
-![Gulp blog](../images/Twitter-gulppost.jpg)
+![Gulp blog](https://github.com/idea42co/images/blob/master/Twitter-gulppost.jpg)
 
 #Why a well put together Gulp file means everything.
 
